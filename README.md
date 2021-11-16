@@ -1,4 +1,4 @@
-MERNstack exemple app,
+MERN App,
 
 Forum with authentification, profiles and posts.
 
